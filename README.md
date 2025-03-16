@@ -1,4 +1,4 @@
-# YOLO KITTI Object Detection
+# YOLO KITTI Object Detectionssss
 
 This project trains a **YOLOv8** model on the **KITTI dataset** to detect **cars, pedestrians, and cyclists**. It uses the **Ultralytics YOLOv8** implementation for training and object detection.
 
